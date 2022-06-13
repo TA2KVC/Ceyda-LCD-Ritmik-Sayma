@@ -1,5 +1,5 @@
-////////// Ceyda Naz   //////////
-// 0'dan 100'e kadar sayıp  /////////
+////////// Ceyda Naz        //////////
+// 100'den geriye sayıp     /////////
 // tekrar başa dönen Arduino kodu //
 /////////// Mart 2020 /////////////
 ////////// Volkan  //////////
